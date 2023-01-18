@@ -1,2 +1,2 @@
 # COMP-530
-UNC-CH Operating Systems
+UNC-CH Digital Logic and Computer Design
